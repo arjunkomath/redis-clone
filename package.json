@@ -1,0 +1,20 @@
+{
+  "name": "redis-clone",
+  "version": "1.0.0",
+  "description": "A redis clone made using Node",
+  "main": "index.js",
+  "dependencies": {
+    "flat-file-db": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redis",
+    "clone",
+    "node"
+  ],
+  "author": "Arjun Komath",
+  "license": "MIT"
+}
